@@ -5,6 +5,7 @@ I maintain **native ARM64 Android ports** (static recompilations & decompilation
 [![Android 13](https://img.shields.io/badge/Android-ARM64-3DDC84?logo=android&logoColor=white)](https://github.com/dmillerzx/handheld-antigravity-toolkit)
 [![SoC](https://img.shields.io/badge/Snapdragon_865-Adreno_650-E02F44)](https://github.com/dmillerzx/handheld-antigravity-toolkit)
 [![Obtainium](https://img.shields.io/badge/Obtainium-Auto_Updates-6A5ACD)](https://github.com/dmillerzx/handheld-antigravity-toolkit/blob/main/configs/rp5_master_obtainium.json)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-dmillerzx-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dmillerzx)
 
 ---
 
