@@ -1,4 +1,3 @@
-# Hi, I'm @dmillerzx
 
 I maintain **native ARM64 Android ports** (static recompilations & decompilations) and **zero-touch handheld provisioning tools** verified on **Retroid Pocket 5** (Snapdragon 865 / Adreno 650, Android 13, 1080p 60 FPS).
 
