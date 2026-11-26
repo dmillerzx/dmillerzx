@@ -33,3 +33,10 @@ All ports ship **source-only APKs** (bring your own legally obtained game files/
 ## Credits
 
 All native ports build on the incredible work of upstream decompilation, recompilation, and renderer authors (including ThatGuyMcd, AurelioB, sergiomanzur, N64Recomp, RT64, RecompOne, and ylaws/libadrenotools).
+---
+
+## Quick FAQ
+
+- **Where do I get game data?** All repositories and APKs are strictly **source-only** (ring your own legally dumped PC files or console ROMs/disc images).
+- **How do I stay updated?** Import [obtainium-emulation-pack-latest.json](https://github.com/dmillerzx/Obtainium-Emulation-Pack/releases/latest) into [Obtainium](https://github.com/ImranR98/Obtainium) for automatic APK update notifications straight from GitHub Releases.
+- **Found a bug or want to share device results?** Open a structured **Bug Report** in Issues or drop compatibility feedback in each repo's **Discussions** tab.
